@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables & Secrets
+.env
+*.env
+
+# SQLite Databases & Storage
+*.db
+*.sqlite3
+uploads/
+
+# Python Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE Settings
+.vscode/
+.idea/
